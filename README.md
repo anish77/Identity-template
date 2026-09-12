@@ -21,4 +21,5 @@ The original template was downloaded from HTML5 UP and then customized with my p
 - HTML5
 - CSS3
 - JavaScript
-- ![Uploading Screenshot 2026-09-12 at 16.20.02.png…]()
+<img width="614" height="657" alt="Screenshot 2026-09-12 at 16 20 02" src="https://github.com/user-attachments/assets/72132a0f-e6a8-4bc4-a167-aba69c7410bc" />
+
